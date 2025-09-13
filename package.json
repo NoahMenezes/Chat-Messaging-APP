@@ -10,6 +10,9 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-scripts": "5.0.1",
+    "stream-chat": "^9.19.1",
+    "stream-chat-react": "^13.6.4",
+    "universal-cookie": "^8.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
